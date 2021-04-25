@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+      "--load-plugins",
+      "pylint"
+    ],
+    "python.linting.flake8Enabled": false,
+    "terminal.integrated.automationShell.linux": ""
+  }
